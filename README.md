@@ -1,0 +1,1 @@
+To run tests: Open CMD Navigate to folder where repository was cloned To set a browser, run set BROWSER=firefox or srt BROWSER=MicrosoftEdge in CMD before running the suite. This will switch to that browser. If environment variable is not set, Chrome will be launched by default. Run npx wdio run wdio.conf.js to start the suite.
